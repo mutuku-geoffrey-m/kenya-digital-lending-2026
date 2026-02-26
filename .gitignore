@@ -1,0 +1,17 @@
+# Raw data files — too large for GitHub
+data/raw/
+
+# Large CSV files
+*.csv
+
+# Kaggle datasets
+*homecredit*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
